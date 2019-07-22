@@ -28,7 +28,7 @@ The files to create the database should be run in order as follows using python,
 An essential file imported by both is
 - `sql_queries.py`: contains predefined queries for use with Postgres SQL
 
-The Jupyter notebooks facilitated creation of the ETL pipeline as well as testing.
+The Jupyter notebooks facilitate creation of the ETL pipeline as well as testing SQL queries.
 
 ### Sample Queries and Expected Results
 
