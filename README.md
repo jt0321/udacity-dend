@@ -10,4 +10,7 @@ This repo contains a series of projects that represent steps that a hypothetical
 - [Project 4: Data Lake with Apache Spark](p4)
 - [Project 5: Data Pipelines](p5)
 
-### Capstone *(to be finished)*
+### Capstone
+
+In this project I prepare data about immigration into the US in 2016.
+- [Capstone: US Travel Records in 2016](capstone)
