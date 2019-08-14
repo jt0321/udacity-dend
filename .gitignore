@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 __pycache__/
+*.sas7bdat
+*.parquet.crc
