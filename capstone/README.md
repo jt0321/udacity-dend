@@ -11,3 +11,7 @@ The steps to complete this project are as follows
 - Step 3: Define the Data Model
 - Step 4: Run ETL to Model the Data
 - Step 5: Complete Project Write Up
+
+### Files
+
+- [`capstone.ipynb`](capstone.ipynb): project write-up
